@@ -17,7 +17,11 @@ CSE Student focused on Artificial Intelligence, Machine Learning, and Data Scien
 
 ## Tech Stack
 
-Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • SQL • Git & GitHub
+Python • Java • C • NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • SQL • Git & GitHub
+
+## DSA
+
+Data Structures & Algorithms using Java 
 
 ## Goal
 
